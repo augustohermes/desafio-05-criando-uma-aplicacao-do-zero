@@ -54,7 +54,7 @@ PRISMIC_DOCUMENT_TYPE=nome do documento repetível, exemplo: "posts"
 
 ## Rodando o projeto
 
-Após o correto preenchimento do .env.local execute o seguinte comando para rodar a aplicação:
+Após o correto preenchimento do `.env.local` execute o seguinte comando para rodar a aplicação:
 
 ```sh
 $ yarn dev
